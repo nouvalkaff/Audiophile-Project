@@ -2,6 +2,8 @@
 
 Rest API for simple mock audio products marketplace.
 
+Documentation: https://documenter.getpostman.com/view/17019370/Tzz4QytY
+
 Back End Developer:
 
 1. Fardian T.
